@@ -1,0 +1,11 @@
+{
+  "name": "Quantara",
+  "symbol": "QTA",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Quantara (QTA) is a futuristic DeFi token with embedded transaction fees and staking capabilities.",
+  "website": "https://deinprojekt.xyz", 
+  "explorer": "https://etherscan.io/token/0xDDB5eC8D7CAc69A0b6cEFD22F0Ad048Bcb10692d",
+  "status": "active",
+  "id": "0xDDB5eC8D7CAc69A0b6cEFD22F0Ad048Bcb10692d"
+}
