@@ -1,0 +1,10 @@
+{
+  "name": "Quantara",
+  "symbol": "QTA",
+  "decimals": 18,
+  "description": "Quantara (QTA) is a futuristic DeFi token designed for innovative blockchain finance and fair trading.",
+  "explorer": "https://etherscan.io/token/0xDDB5eC8D7CAc69A0b6cEFD22F0Ad048Bcb10692d",
+  "type": "ERC20",
+  "status": "active",
+  "id": "0xDDB5eC8D7CAc69A0b6cEFD22F0Ad048Bcb10692d"
+}
